@@ -4,6 +4,6 @@
 # 按 双击 ⇧ 在所有地方搜索类、文件、工具窗口、操作和设置。
 
 
-money = 100
-print(type(money))
-
+list=[[None]*2]*3
+list[0][0] = 5
+print(list)
